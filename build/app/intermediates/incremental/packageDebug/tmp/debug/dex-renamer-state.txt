@@ -1,0 +1,4 @@
+#Sun Jul 04 16:55:07 IST 2021
+base.0=/Users/developer/AndroidStudioProjects/planning_pocker/in-nizam-cs.plan.github.io/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
